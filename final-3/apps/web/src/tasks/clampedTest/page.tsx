@@ -2,7 +2,7 @@ import { ClampedText } from "@/components/clampedText";
 
 export default function ClampedTask() {
   return (
-    <div className="w-90 h-40">
+    <div className="w-10 h-10">
       <ClampedText>
         BIG ZALUPABIG ZALUPABIG ZALUPABIG ZALUPABIG ZALUPABIG ZALUPABIG ZALUPABIG ZALUPABIG
         ZALUPABIG ZALUPABIG ZALUPABIG ZALUPABIG ZALUPABIG ZALUPABIG ZALUPABIG ZALUPABIG ZALUPABIG

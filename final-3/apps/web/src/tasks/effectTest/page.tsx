@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 
-export function EffectTest() {
+export default function EffectTest() {
   const [test, setTest] = useState(1);
 
   useEffect(() => {
