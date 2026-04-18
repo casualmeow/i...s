@@ -4,11 +4,14 @@ packages:
   - tools/*
 
 catalog:
+  '@tailwindcss/vite': ^4.2.2
   "@types/node": ^24
   mock-config-server: ^4.0.3
+  react-router: ^7.14.1
+  tailwindcss: ^4.2.2
   typescript: ^5
   vite: npm:@voidzero-dev/vite-plus-core@latest
-  vite-plus: latest
+  vite-plus: ^0.1.18
   vitest: npm:@voidzero-dev/vite-plus-test@latest
 
 catalogMode: prefer
