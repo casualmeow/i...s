@@ -57,7 +57,7 @@ export function ClampedText({ children, className = "" }: ClampedTextProps) {
   }, [children]);
 
   return (
-    <div ref={wrapperRef} className="relative h-full w-full overflow-hidden">
+    <div ref={wrapperRef} className="w-full h-full relative overflow-hidden">
       <p
         className={className}
         style={{
