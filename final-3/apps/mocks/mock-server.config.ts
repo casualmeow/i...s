@@ -2,7 +2,7 @@ import type { FlatMockServerConfig } from "mock-config-server";
 
 export default [
   {
-    baseUrl: "/",
+    baseUrl: "/api",
   },
   {
     configs: [
